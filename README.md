@@ -22,6 +22,7 @@ Storytelling through Data: Insights, summaries and thematic framing.
 
 ## Dashboard
 Dataset <a href="https://github.com/Dorccus/Data_Analytics-Weather/blob/main/Weather-P.pbix">Power_BI_File</a>
+Interactive Dashboard <a href="https://github.com/Dorccus/Data_Analytics-Weather/blob/main/Weather-P_Dash.png">Dashboard</a>
 Temperature Line Chart: Tracks the weather by Avg Temp_C and sums the Wind_Speed km/h by Date.
 Visibility Analysis: Identifies low-visibility zones linked to wind and rain.
 Weather Condition Breakdown: Compares the frequency of fog, rain, and sunny days.
