@@ -21,15 +21,16 @@ DAX: Custom measures for seasonal analysis, condition frequency, and KPI extract
 Storytelling through Data: Insights, summaries and thematic framing.
 
 ## Dashboard
+Dataset <a href="https://github.com/Dorccus/Data_Analytics-Weather/blob/main/Weather-P.pbix">Power_BI_File</a>
 Temperature Line Chart: Tracks the weather by Avg Temp_C and sums the Wind_Speed km/h by Date.
 Visibility Analysis: Identifies low-visibility zones linked to wind and rain.
-Weather Condition Breakdown: Compares fog, rain, and sunny frequency.
-KPI Cards: Showcase max temperature, rainest times/ hour and lowest visibility.
+Weather Condition Breakdown: Compares the frequency of fog, rain, and sunny days.
+KPI Cards: Showcase max temperature, rainiest times/ hour and lowest visibility.
 Slicers: Enable interactivity by filtering season, hour, or condition type.
 
 ## Key Insights
-Johannesburg's summer mornings begis under thick fog, with visibility averaging below 6 km.
-As midday approached, pressure dropped and wind speed increased-ushering in light rain and cloud cover.
+Johannesburg's summer mornings begin under thick fog, with visibility averaging below 6 km.
+As midday approached, pressure dropped and wind speed increased, ushering in light rain and cloud cover.
 Snow showers appeared later in the dataset, aligning with temperature dips and higher wind gusts.
 
 
